@@ -40,3 +40,5 @@ c=b
 d=a
 print("a:"+c)
 print("b:"+d)
+
+a = input("my name is jawad")
